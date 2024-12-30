@@ -1,1 +1,5 @@
+Run 1-3: Discarded.
 
+Run 4: Contains waveform data from a 1.3 kHz pulser with a peak-to-peak voltage (Vpp) of 1 V, divided into 3 channels (each channel receiving 0.33 Vpp).
+
+Run 5: Contains data from a 10 Hz pulser signal with sample voltage amplitude.
